@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "udemy-angular-ngdeploy": {
+      "hosting": {
+        "angular-config": [
+          "udemy-angular-ngdeploy"
+        ]
+      }
+    }
+  }
+}
